@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Wireless Mouse",
+    "description": "A sleek wireless mouse with ergonomic design.",
+    "price": 29.99
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "description": "A durable mechanical keyboard with RGB backlighting.",
+    "price": 79.99
+  },
+  {
+    "name": "Gaming Headset",
+    "description": "A comfortable gaming headset with surround sound.",
+    "price": 59.99
+  },
+  {
+    "name": "4K Monitor",
+    "description": "A 27-inch 4K monitor with vivid colors and high contrast.",
+    "price": 299.99
+  },
+  {
+    "name": "USB-C Hub",
+    "description": "A compact USB-C hub with multiple ports.",
+    "price": 39.99
+  },
+  {
+    "name": "Laptop Stand",
+    "description": "An adjustable laptop stand for improved ergonomics.",
+    "price": 19.99
+  },
+  {
+    "name": "Portable SSD",
+    "description": "A fast portable SSD with 1TB of storage.",
+    "price": 99.99
+  },
+  {
+    "name": "Smartphone Charger",
+    "description": "A quick-charging smartphone charger with a USB-C port.",
+    "price": 14.99
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "description": "A waterproof Bluetooth speaker with powerful sound.",
+    "price": 49.99
+  },
+  {
+    "name": "Webcam",
+    "description": "A high-definition webcam with auto-focus and noise reduction.",
+    "price": 69.99
+  }
+]
