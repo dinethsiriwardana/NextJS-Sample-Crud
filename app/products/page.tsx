@@ -12,7 +12,7 @@ export default function Page() {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const res = await fetch(`http://localhost:3000/api/products`, {
+        const res = await fetch(`/api/products`, {
           headers: {
             "Content-Type": "application/json",
           },

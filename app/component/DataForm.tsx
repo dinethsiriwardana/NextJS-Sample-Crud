@@ -16,7 +16,7 @@ const DataForm = () => {
   };
 
   const addData = () => {
-    fetch(`http://localhost:3000/api/products`, {
+    fetch(`/api/products`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

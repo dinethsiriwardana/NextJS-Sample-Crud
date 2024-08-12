@@ -7,7 +7,7 @@ const TableComponent: React.FC<{ products: Product[] }> = ({ products }) => {
   const [productList, setProductList] = useState<Product[]>(products);
 
   const deleteProduct = (_id: string) => {
-    fetch(`http://localhost:3000/api/products/${_id}`, {
+    fetch(`/api/products/${_id}`, {
       method: "DELETE",
     })
       .then((res) => res.json())
